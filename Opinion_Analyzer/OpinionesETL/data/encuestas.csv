@@ -1,0 +1,6 @@
+ProductId,CustomerId,Email,CustomerName,Country,Score,Classification,Comment,Date
+P001,C001,ana@email.com,Ana García,DO,5,Positiva,Muy satisfecha con el producto.,2026-03-01
+P002,C002,juan@email.com,Juan Pérez,DO,2,Negativa,El producto llegó dañado.,2026-03-02
+P001,C003,maria@email.com,María Rodríguez,US,4,Positiva,Buena calidad en general.,2026-03-03
+P003,C004,carlos@email.com,Carlos Díaz,DO,3,Neutra,Cumple con lo básico.,2026-03-04
+P002,C005,luisa@email.com,Luisa Martínez,MX,5,Positiva,Excelente servicio al cliente.,2026-03-05
