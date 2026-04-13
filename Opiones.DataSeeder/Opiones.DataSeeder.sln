@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opiones.DataSeeder", "Opiones.DataSeeder\Opiones.DataSeeder.csproj", "{8E150B4D-45FA-47B6-99ED-35770867B1AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E150B4D-45FA-47B6-99ED-35770867B1AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E150B4D-45FA-47B6-99ED-35770867B1AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E150B4D-45FA-47B6-99ED-35770867B1AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E150B4D-45FA-47B6-99ED-35770867B1AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
