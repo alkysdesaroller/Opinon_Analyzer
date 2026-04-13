@@ -1,0 +1,201 @@
+IdComment,IdCliente,IdProducto,Fuente,Fecha,Comentario
+T0001,C019,P003,Instagram,6/15/2025,"Información suficiente, sin mayor novedad"
+T0002,,P006,Twitter,8/27/2025,"Muy mala calidad, se rompió rápido"
+T0003,,P008,Instagram,7/28/2025,Gran relación calidad-precio
+T0004,,P015,Twitter,9/5/2025,Pésima atención al cliente
+T0005,C031,P010,Instagram,9/4/2025,"No cumple con lo anunciado, insatisfecho"
+T0006,,P005,Facebook,6/18/2025,"No cumple con lo anunciado, insatisfecho"
+T0007,C036,P017,Twitter,7/20/2025,"No funciona como esperaba, decepcionado"
+T0008,,P017,Instagram,8/25/2025,"Me encanta este producto, excelente calidad"
+T0009,C021,P010,Facebook,7/9/2025,"Información suficiente, sin mayor novedad"
+T0010,,P010,Facebook,8/28/2025,Gran relación calidad-precio
+T0011,,P010,Instagram,7/1/2025,"Muy satisfecho con la compra, lo recomiendo"
+T0012,C040,P005,Facebook,7/3/2025,Satisface lo básico
+T0013,,P002,Instagram,7/2/2025,"Me encanta este producto, excelente calidad"
+T0014,,P009,Instagram,6/24/2025,"Entrega correcta, sin comentarios adicionales"
+T0015,C035,P001,Facebook,8/13/2025,Producto llegó rápido y funciona perfecto
+T0016,C005,P013,Facebook,7/22/2025,"No funciona como esperaba, decepcionado"
+T0017,C022,P016,Instagram,8/4/2025,Envío tardío y producto dañado
+T0018,,P012,Instagram,7/4/2025,Producto llegó rápido y funciona perfecto
+T0019,C030,P004,Twitter,8/26/2025,"Calidad superior, muy contento"
+T0020,C025,P004,Twitter,8/24/2025,"Entrega correcta, sin comentarios adicionales"
+T0021,,P011,Twitter,7/12/2025,"Información suficiente, sin mayor novedad"
+T0022,C020,P017,Facebook,7/11/2025,"Muy mala calidad, se rompió rápido"
+T0023,,P015,Twitter,9/7/2025,Producto llegó rápido y funciona perfecto
+T0024,C031,P010,Twitter,7/20/2025,"Me encanta este producto, excelente calidad"
+T0025,,P005,Facebook,9/8/2025,"Entrega correcta, sin comentarios adicionales"
+T0026,C036,P013,Facebook,9/4/2025,Gran relación calidad-precio
+T0027,C036,P013,Instagram,6/27/2025,Gran relación calidad-precio
+T0028,C007,P004,Instagram,7/29/2025,Producto llegó rápido y funciona perfecto
+T0029,C033,P005,Twitter,9/9/2025,"Muy mala calidad, se rompió rápido"
+T0030,,P005,Facebook,8/25/2025,Satisface lo básico
+T0031,,P020,Facebook,8/24/2025,Gran relación calidad-precio
+T0032,,P013,Instagram,8/1/2025,"Es lo que esperaba, nada excepcional"
+T0033,,P017,Facebook,7/15/2025,Pésima atención al cliente
+T0034,C008,P001,Facebook,6/17/2025,Satisface lo básico
+T0035,C017,P001,Instagram,8/15/2025,Satisface lo básico
+T0036,C011,P002,Facebook,8/26/2025,Pésima atención al cliente
+T0037,C008,P008,Facebook,7/22/2025,"Calidad superior, muy contento"
+T0038,C014,P005,Facebook,9/6/2025,Pésima atención al cliente
+T0039,C036,P005,Instagram,7/27/2025,"Calidad superior, muy contento"
+T0040,,P011,Facebook,7/6/2025,Pésima atención al cliente
+T0041,,P012,Instagram,7/14/2025,"Es lo que esperaba, nada excepcional"
+T0042,,P007,Twitter,8/6/2025,Producto llegó rápido y funciona perfecto
+T0043,,P010,Facebook,7/14/2025,"No cumple con lo anunciado, insatisfecho"
+T0044,C018,P012,Instagram,7/6/2025,Gran relación calidad-precio
+T0045,,P013,Twitter,8/7/2025,Producto llegó rápido y funciona perfecto
+T0046,C006,P002,Instagram,8/12/2025,"Calidad superior, muy contento"
+T0047,C035,P016,Instagram,8/10/2025,Gran relación calidad-precio
+T0048,C038,P005,Instagram,7/8/2025,"Me encanta este producto, excelente calidad"
+T0049,,P008,Facebook,7/15/2025,"Calidad superior, muy contento"
+T0050,,P004,Twitter,7/23/2025,Gran relación calidad-precio
+T0051,C013,P016,Facebook,8/8/2025,"Es lo que esperaba, nada excepcional"
+T0052,,P002,Twitter,7/7/2025,Gran relación calidad-precio
+T0053,,P002,Twitter,7/25/2025,"Muy satisfecho con la compra, lo recomiendo"
+T0054,C019,P016,Facebook,7/3/2025,"Producto recibido, cumple su función"
+T0055,C022,P020,Instagram,7/12/2025,Gran relación calidad-precio
+T0056,,P005,Twitter,8/2/2025,"No funciona como esperaba, decepcionado"
+T0057,,P006,Twitter,8/1/2025,"No funciona como esperaba, decepcionado"
+T0058,C013,P010,Facebook,7/10/2025,"Calidad superior, muy contento"
+T0059,C007,P011,Facebook,8/3/2025,"Muy satisfecho con la compra, lo recomiendo"
+T0060,C025,P008,Facebook,8/6/2025,Producto llegó rápido y funciona perfecto
+T0061,,P019,Instagram,8/14/2025,Producto llegó rápido y funciona perfecto
+T0062,,P002,Facebook,6/18/2025,"No funciona como esperaba, decepcionado"
+T0063,,P017,Instagram,8/29/2025,"Es lo que esperaba, nada excepcional"
+T0064,C015,P010,Facebook,8/25/2025,"Muy satisfecho con la compra, lo recomiendo"
+T0065,,P015,Instagram,7/5/2025,"No cumple con lo anunciado, insatisfecho"
+T0066,,P016,Twitter,6/18/2025,"Información suficiente, sin mayor novedad"
+T0067,,P020,Instagram,6/15/2025,"Calidad superior, muy contento"
+T0068,C037,P012,Instagram,8/19/2025,Gran relación calidad-precio
+T0069,C011,P019,Facebook,8/30/2025,Gran relación calidad-precio
+T0070,,P007,Facebook,9/6/2025,Pésima atención al cliente
+T0071,C027,P015,Instagram,7/16/2025,"Muy mala calidad, se rompió rápido"
+T0072,,P010,Instagram,8/17/2025,"Me encanta este producto, excelente calidad"
+T0073,C028,P019,Instagram,9/6/2025,"Me encanta este producto, excelente calidad"
+T0074,,P003,Facebook,8/21/2025,Envío tardío y producto dañado
+T0075,,P005,Facebook,7/27/2025,"Entrega correcta, sin comentarios adicionales"
+T0076,,P015,Twitter,6/18/2025,"Entrega correcta, sin comentarios adicionales"
+T0077,C023,P018,Facebook,7/8/2025,Gran relación calidad-precio
+T0078,,P005,Twitter,8/6/2025,"Me encanta este producto, excelente calidad"
+T0079,,P015,Facebook,8/15/2025,Pésima atención al cliente
+T0080,C010,P008,Twitter,6/21/2025,"Me encanta este producto, excelente calidad"
+T0081,,P014,Twitter,8/18/2025,"Producto recibido, cumple su función"
+T0082,C003,P003,Twitter,9/8/2025,"Muy mala calidad, se rompió rápido"
+T0083,C035,P013,Twitter,7/11/2025,"Me encanta este producto, excelente calidad"
+T0084,C037,P010,Instagram,8/3/2025,Gran relación calidad-precio
+T0085,C010,P008,Twitter,7/23/2025,Satisface lo básico
+T0086,C036,P010,Instagram,6/19/2025,"Información suficiente, sin mayor novedad"
+T0087,C004,P014,Instagram,8/4/2025,"Entrega correcta, sin comentarios adicionales"
+T0088,C020,P014,Facebook,8/14/2025,Gran relación calidad-precio
+T0089,C010,P008,Instagram,7/23/2025,"Producto recibido, cumple su función"
+T0090,C009,P014,Twitter,8/2/2025,Producto llegó rápido y funciona perfecto
+T0091,,P003,Instagram,8/20/2025,"Producto recibido, cumple su función"
+T0092,C039,P002,Twitter,6/30/2025,"Muy mala calidad, se rompió rápido"
+T0093,C014,P018,Facebook,9/12/2025,"Es lo que esperaba, nada excepcional"
+T0094,,P007,Instagram,7/14/2025,"Producto recibido, cumple su función"
+T0095,,P008,Twitter,7/5/2025,"Entrega correcta, sin comentarios adicionales"
+T0096,,P011,Instagram,7/30/2025,Gran relación calidad-precio
+T0097,C033,P010,Twitter,7/15/2025,"Entrega correcta, sin comentarios adicionales"
+T0098,,P011,Twitter,7/3/2025,"Calidad superior, muy contento"
+T0099,,P008,Instagram,7/1/2025,Gran relación calidad-precio
+T0100,C013,P014,Instagram,8/13/2025,"Calidad superior, muy contento"
+T0101,C022,P016,Instagram,6/23/2025,"Calidad superior, muy contento"
+T0102,C023,P016,Facebook,8/21/2025,Gran relación calidad-precio
+T0103,,P018,Twitter,9/4/2025,Satisface lo básico
+T0104,,P002,Twitter,6/15/2025,"No funciona como esperaba, decepcionado"
+T0105,C033,P005,Instagram,6/24/2025,"Muy mala calidad, se rompió rápido"
+T0106,,P020,Twitter,7/7/2025,"Muy mala calidad, se rompió rápido"
+T0107,C002,P018,Instagram,8/8/2025,Envío tardío y producto dañado
+T0108,C028,P001,Twitter,9/1/2025,"Información suficiente, sin mayor novedad"
+T0109,C013,P017,Facebook,8/10/2025,Envío tardío y producto dañado
+T0110,C026,P013,Instagram,8/16/2025,"No funciona como esperaba, decepcionado"
+T0111,,P010,Twitter,7/24/2025,"Producto recibido, cumple su función"
+T0112,C031,P013,Instagram,8/23/2025,"Me encanta este producto, excelente calidad"
+T0113,C028,P003,Instagram,9/1/2025,Envío tardío y producto dañado
+T0114,,P017,Facebook,8/10/2025,Gran relación calidad-precio
+T0115,,P002,Instagram,7/3/2025,Envío tardío y producto dañado
+T0116,C021,P002,Instagram,8/26/2025,"Muy satisfecho con la compra, lo recomiendo"
+T0117,,P013,Twitter,7/3/2025,Gran relación calidad-precio
+T0118,,P013,Instagram,8/27/2025,"No cumple con lo anunciado, insatisfecho"
+T0119,C023,P003,Twitter,9/4/2025,"Calidad superior, muy contento"
+T0120,,P011,Facebook,8/3/2025,Pésima atención al cliente
+T0121,,P001,Facebook,8/15/2025,"Entrega correcta, sin comentarios adicionales"
+T0122,C025,P012,Instagram,7/27/2025,Pésima atención al cliente
+T0123,,P003,Instagram,9/4/2025,"Muy satisfecho con la compra, lo recomiendo"
+T0124,C025,P003,Instagram,7/26/2025,"Información suficiente, sin mayor novedad"
+T0125,C006,P011,Facebook,7/29/2025,Producto llegó rápido y funciona perfecto
+T0126,C006,P009,Instagram,7/4/2025,"Calidad superior, muy contento"
+T0127,C002,P017,Twitter,6/29/2025,Gran relación calidad-precio
+T0128,,P020,Facebook,7/23/2025,"Producto recibido, cumple su función"
+T0129,,P013,Twitter,7/2/2025,Satisface lo básico
+T0130,C025,P017,Facebook,8/10/2025,Producto llegó rápido y funciona perfecto
+T0131,C011,P016,Facebook,7/14/2025,"No cumple con lo anunciado, insatisfecho"
+T0132,C016,P003,Instagram,6/27/2025,"Entrega correcta, sin comentarios adicionales"
+T0133,C009,P007,Facebook,6/26/2025,"Calidad superior, muy contento"
+T0134,,P013,Facebook,6/22/2025,Producto llegó rápido y funciona perfecto
+T0135,C021,P020,Facebook,8/4/2025,"No funciona como esperaba, decepcionado"
+T0136,,P006,Instagram,6/17/2025,"Es lo que esperaba, nada excepcional"
+T0137,,P016,Facebook,8/9/2025,"Es lo que esperaba, nada excepcional"
+T0138,C037,P013,Twitter,6/18/2025,Gran relación calidad-precio
+T0139,C030,P018,Facebook,8/7/2025,"Información suficiente, sin mayor novedad"
+T0140,,P003,Instagram,7/12/2025,"Entrega correcta, sin comentarios adicionales"
+T0141,,P005,Instagram,7/21/2025,"Muy satisfecho con la compra, lo recomiendo"
+T0142,C039,P013,Instagram,7/11/2025,"No cumple con lo anunciado, insatisfecho"
+T0143,C024,P014,Instagram,6/24/2025,Satisface lo básico
+T0144,C016,P003,Twitter,6/23/2025,Envío tardío y producto dañado
+T0145,C026,P020,Facebook,8/31/2025,"Es lo que esperaba, nada excepcional"
+T0146,C015,P001,Instagram,7/1/2025,Pésima atención al cliente
+T0147,C024,P019,Instagram,7/11/2025,Gran relación calidad-precio
+T0148,C002,P005,Facebook,9/3/2025,Envío tardío y producto dañado
+T0149,,P004,Facebook,8/1/2025,"Es lo que esperaba, nada excepcional"
+T0150,,P015,Facebook,9/1/2025,Envío tardío y producto dañado
+T0151,,P015,Facebook,9/8/2025,"Muy mala calidad, se rompió rápido"
+T0152,C022,P004,Instagram,8/13/2025,"No funciona como esperaba, decepcionado"
+T0153,C011,P017,Facebook,8/15/2025,"Calidad superior, muy contento"
+T0154,,P013,Facebook,9/10/2025,"Calidad superior, muy contento"
+T0155,,P020,Facebook,9/13/2025,"No cumple con lo anunciado, insatisfecho"
+T0156,C005,P007,Twitter,7/29/2025,Pésima atención al cliente
+T0157,C008,P011,Instagram,6/24/2025,"Calidad superior, muy contento"
+T0158,C040,P011,Facebook,7/30/2025,"Me encanta este producto, excelente calidad"
+T0159,,P015,Instagram,6/30/2025,"Es lo que esperaba, nada excepcional"
+T0160,,P003,Facebook,8/30/2025,"Muy satisfecho con la compra, lo recomiendo"
+T0161,C010,P006,Instagram,8/27/2025,"No cumple con lo anunciado, insatisfecho"
+T0162,C012,P019,Instagram,6/23/2025,Pésima atención al cliente
+T0163,C032,P006,Facebook,7/18/2025,"Muy satisfecho con la compra, lo recomiendo"
+T0164,C023,P020,Twitter,8/20/2025,"Entrega correcta, sin comentarios adicionales"
+T0165,,P013,Facebook,6/18/2025,"No cumple con lo anunciado, insatisfecho"
+T0166,C029,P016,Instagram,9/10/2025,"Muy mala calidad, se rompió rápido"
+T0167,C018,P008,Twitter,7/17/2025,Producto llegó rápido y funciona perfecto
+T0168,,P019,Instagram,8/30/2025,Satisface lo básico
+T0169,C035,P019,Instagram,9/8/2025,"Es lo que esperaba, nada excepcional"
+T0170,C028,P015,Facebook,9/9/2025,"Muy satisfecho con la compra, lo recomiendo"
+T0171,C006,P015,Twitter,8/18/2025,"Muy mala calidad, se rompió rápido"
+T0172,,P019,Instagram,7/21/2025,Satisface lo básico
+T0173,,P006,Twitter,7/3/2025,"Información suficiente, sin mayor novedad"
+T0174,C039,P012,Instagram,8/7/2025,Envío tardío y producto dañado
+T0175,C033,P010,Twitter,7/23/2025,"Producto recibido, cumple su función"
+T0176,,P002,Instagram,8/28/2025,"Información suficiente, sin mayor novedad"
+T0177,C021,P008,Facebook,8/26/2025,"Entrega correcta, sin comentarios adicionales"
+T0178,,P019,Facebook,9/4/2025,"No cumple con lo anunciado, insatisfecho"
+T0179,C018,P003,Facebook,7/13/2025,Envío tardío y producto dañado
+T0180,C006,P011,Instagram,6/20/2025,"Entrega correcta, sin comentarios adicionales"
+T0181,,P012,Twitter,7/21/2025,"Entrega correcta, sin comentarios adicionales"
+T0182,C021,P007,Instagram,7/2/2025,"Es lo que esperaba, nada excepcional"
+T0183,C032,P005,Twitter,9/1/2025,"Producto recibido, cumple su función"
+T0184,C011,P015,Facebook,8/19/2025,"Muy mala calidad, se rompió rápido"
+T0185,,P005,Twitter,6/22/2025,Producto llegó rápido y funciona perfecto
+T0186,C024,P012,Twitter,7/25/2025,"No funciona como esperaba, decepcionado"
+T0187,,P010,Instagram,9/2/2025,"Entrega correcta, sin comentarios adicionales"
+T0188,C031,P004,Twitter,7/9/2025,Gran relación calidad-precio
+T0189,C022,P015,Instagram,8/28/2025,"Entrega correcta, sin comentarios adicionales"
+T0190,C025,P016,Twitter,8/4/2025,"Me encanta este producto, excelente calidad"
+T0191,,P012,Instagram,6/19/2025,"Muy satisfecho con la compra, lo recomiendo"
+T0192,C037,P005,Facebook,7/31/2025,"Muy satisfecho con la compra, lo recomiendo"
+T0193,,P007,Instagram,6/18/2025,"Calidad superior, muy contento"
+T0194,,P015,Twitter,8/29/2025,"Me encanta este producto, excelente calidad"
+T0195,,P019,Facebook,8/27/2025,"Calidad superior, muy contento"
+T0196,C006,P008,Instagram,6/28/2025,Gran relación calidad-precio
+T0197,,P010,Twitter,7/9/2025,Envío tardío y producto dañado
+T0198,C026,P020,Twitter,7/12/2025,"Me encanta este producto, excelente calidad"
+T0199,C032,P013,Instagram,9/12/2025,"Muy mala calidad, se rompió rápido"
+T0200,,P012,Facebook,7/29/2025,Gran relación calidad-precio

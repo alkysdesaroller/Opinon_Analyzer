@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EtlWorkerService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0695f1d567b8913290da8fe4dd96e76b81eb8fab")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+416127aa093eb127ebb05244bab30f0560eac924")]
 [assembly: System.Reflection.AssemblyProductAttribute("EtlWorkerService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EtlWorkerService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
